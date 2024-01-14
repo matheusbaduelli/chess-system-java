@@ -1,0 +1,11 @@
+1 passo
+
+É criada uma classe posição para definir a posição da peças na linha e coluna dentro da estrutura do jogo
+
+2 passo
+
+É criada uma classe peça, sendo composta pela posição do tabuleiro de forma protegida, e tambem sendo composta pelo tabuleiro.
+
+3 passo
+
+ciação da classe tabuleiro onde ocorre a criação de linhas e colunas e a composição de uma matriz de peças dentro do tabuleiro
